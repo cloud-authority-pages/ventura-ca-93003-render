@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: ventura-ca-93003
+    env: static
+    staticPublishPath: public
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
