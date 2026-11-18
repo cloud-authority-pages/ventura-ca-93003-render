@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ventura-ca-93003.onrender.com/sitemap.xml
+Sitemap: https://ventura-ca-93003.onrender.com/ventura-property-management/sitemap.xml
